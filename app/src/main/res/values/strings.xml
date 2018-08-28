@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CustomAdapter</string>
+    <string-array name="country_names">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Australia</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Bhutan</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Egypt</item>
+        <item>Ethiopia</item>
+        <item>Finland</item>
+        <item>Guinea</item>
+        <item>India</item>
+        <item>Italy</item>
+        <item>Kyrgyzstan</item>
+        <item>Liberia</item>
+        <item>Luxembourg</item>
+        <item>Malaysia</item>
+        <item>Mauritania</item>
+    </string-array>
+</resources>
